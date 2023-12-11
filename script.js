@@ -37,7 +37,7 @@ let options = {
         "Monkey", "Parrot", "Crocodile", "Giraffe", "Penguin", "Peacock",
         "Sloth", "Toucan", "Pangolin", "Jaguar", "Cobra", "Turtle", "Frog",
         "Flamingo", "Chameleon", "Pangolin", "Meerkat", "Armadillo", "Cheetah"
-    };],
+    ],
   countries: [
     "India",
     "Hungary",
