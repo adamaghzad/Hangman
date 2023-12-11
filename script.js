@@ -30,7 +30,14 @@ let options = {
         "Plum",
         "Apricot",
   ],
-  animals: ["Hedgehog", "Rhinoceros", "Squirrel", "Panther", "Walrus", "Zebra"],
+  animals: ["Hedgehog", "Rhinoceros", "Squirrel", "Panther", "Walrus", "Zebra",
+        "Giraffe", "Kangaroo", "Elephant", "Penguin", "Cheetah", "Ostrich",
+        "Koala", "Gorilla", "Dolphin", "Lion", "Tiger", "Leopard", "Panda",
+        "Polar Bear", "Hippopotamus", "Giraffe", "Koala", "Kangaroo",
+        "Monkey", "Parrot", "Crocodile", "Giraffe", "Penguin", "Peacock",
+        "Sloth", "Toucan", "Pangolin", "Jaguar", "Cobra", "Turtle", "Frog",
+        "Flamingo", "Chameleon", "Pangolin", "Meerkat", "Armadillo", "Cheetah"
+    };],
   countries: [
     "India",
     "Hungary",
