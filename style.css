@@ -6,6 +6,7 @@
 }
 body {
   background-color: #f4c531;
+  direction: rtl;
 }
 .container {
   font-size: 16px;
