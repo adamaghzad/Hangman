@@ -127,7 +127,7 @@
       letterContainer.innerHTML = "";
 
       // Arabic letters
-      const arabicLetters = ["أ", "ب", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", "ف", "ق", "ك", "ل", "م", "ن", "ه", "و", "ي"];
+      const arabicLetters = ["أ", "ب", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", "ف","ﺍ", "ق", "ك", "ل", "م", "ن", "ه", "و", "ي"];
 
       // For creating Arabic letter buttons
       for (let i = 0; i < arabicLetters.length; i++) {
