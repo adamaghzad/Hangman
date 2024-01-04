@@ -17,7 +17,7 @@ Classic Hangman game implemented using HTML, CSS, and JavaScript. Play and guess
 Feel free to reach out if you have any questions or suggestions.
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Email](mailto:adam aghzaf@gmail.com)
+- [Email](mailto:adamaghzaf@gmail.com)
 
 © 2024 Your Name
 
