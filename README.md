@@ -11,7 +11,7 @@ Classic Hangman game implemented using HTML, CSS, and JavaScript. Play and guess
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/ADAM-sable/Portfolio-Website/search?l=javascript)
 
 ## 📌 Sneak Peek
-![Hangman Game](hangman-screenshot.png)
+![Hangman Game](hang.jpg)
 
 ## 📬 Contact
 Feel free to reach out if you have any questions or suggestions.
