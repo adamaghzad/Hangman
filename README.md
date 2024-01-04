@@ -1,26 +1,25 @@
-## Calculator App
+# Hangman Game
 
-Simple calculator web application built using HTML5, CSS3, and JavaScript.
+Classic Hangman game implemented using HTML, CSS, and JavaScript. Play and guess the word before the hangman is complete!
 
-<a href="https://calculater-byadamaghzaf.netlify.app/" target="_blank">**Try it Now** 🚀</a>
+## 🚀 Play Now
+[**Play Hangman**](https://hangman-byadamaghzaf.netlify.app/) 
 
 ## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/your-username/calculator-app/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/your-username/calculator-app/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/your-username/calculator-app/search?l=javascript)
+- HTML5 (https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ADAM-sable/Portfolio-Website/search?l=html)&nbsp;
+- CSS3 (https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ADAM-sable/Portfolio-Website/search?l=css)&nbsp;
+- JavaScript (https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ADAM-sable/Portfolio-Website/search?l=css)&nbsp;
+- jQuery
+- [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
-### Features:
-- Basic arithmetic operations: addition, subtraction, multiplication, division.
-- Responsive design for various screen sizes.
+## 📌 Sneak Peek
+![Hangman Game](hangman-screenshot.png)
 
-## 📌 Sneak Peek of the Calculator 🙈 :
-![Calculator Screenshot](screenshot.png)
+## 📬 Contact
+Feel free to reach out if you have any questions or suggestions.
 
-<h2>📬 Contact</h2>
-
-If you have any questions or suggestions, feel free to reach out to me through the following channels:
-
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Email](mailto:your-email@example.com)
 
 © 2024 Your Name
 
